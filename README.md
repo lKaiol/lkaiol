@@ -5,7 +5,7 @@
   <br>
 
   <!-- Texto animado como terminal -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Kaio+Leonardo).;We+have+a+system+to+hack.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Kaio+Leonardo)](https://git.io/typing-svg)
 </div>
 
 <br>
