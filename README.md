@@ -1,6 +1,8 @@
 <div align="center">
   <!-- Banner animado -->
-<img width="540" height="220" alt="Pixel Glitch GIF" src="https://github.com/user-attachments/assets/000f3ad5-6ade-4685-a5e6-f321e78333e6" />
+  <img src=" <img width="540" height="220" alt="Pixel Glitch GIF" src="https://github.com/user-attachments/assets/caab5fa7-0dc7-44f0-a232-5204ccb21037" />
+" width="100%" height="250" style="object-fit: cover;">
+
   <br>
 
   <!-- Texto animado como terminal -->
@@ -11,7 +13,7 @@
 
 > 👾 **SYSTEM_OVERRIDE_ACTIVE** | Estudante de Sistemas de Informação (5º Semestre) & Estagiário de T.I (Suporte & Desenvolvimento) no Hospital CEME.
 
-Resolvo problemas complexos através de código. Minha base é em **Backend (Java)** e manipulação de **Bancos de Dados Relacionais**, somada à vivência prática em infraestrutura e estabilidade de sistemas críticos.
+Resolvo problemas complexos através de código. Minha base é em **Backend (Java)** e manipulação de **Bancos de Dados Relacionais**, somada à vivência prática em infraestrutura (servidores Linux/VMware) e estabilidade de sistemas críticos corporativos.
 
 <br>
 
@@ -23,6 +25,21 @@ Resolvo problemas complexos através de código. Minha base é em **Backend (Jav
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF003C&color=FCEE09" alt="Python">
   <img src="https://img.shields.io/badge/Rocky_Linux-000000?style=for-the-badge&logo=linux&logoColor=00F0FF&color=FF003C" alt="Rocky Linux">
 </div>
+
+<br>
+
+### 🚀 [ ATUALIZANDO_DIRETÓRIOS ]
+- Aprofundando estudos na construção de **APIs REST** e migração lógica para o ecossistema Web.
+- Desenvolvendo ferramentas internas em Java para otimização de troubleshooting e monitoramento de redes em tempo real.
+
+### 🏆 [ ARQUIVOS_EXECUTÁVEIS ]
+- **[Dark Souls - RPG Simulator]:** Motor de combate assíncrono criado em Java puro com persistência segura em PostgreSQL (proteção contra SQL Injection) e arquitetura MVC/DAO.
+- **[Harmony Sounds]:** Plataforma e-commerce customizada que alcançou 40k acessos em 3 meses através de estratégias de gestão e SEO.
+- **[Metabotix]:** Planejamento estratégico e programação de robôs de combate.
+
+### 📡 [ ESTABELECER_CONEXÃO ]
+- [LinkedIn](https://www.linkedin.com/in/kaio-leonardo)
+- E-mail: kaioleonardo005@gmail.com
 # Olá! Sou o Kaio ;)
 
 👨‍💻 **Estudante de Sistemas de Informação (5º Semestre - IFG) | Estagiário de T.I (Suporte & Desenvolvimento) no Hospital CEME.**
