@@ -2,7 +2,7 @@
 
 👨‍💻 **Estudante de Sistemas de Informação (5º Semestre - IFG) | Estagiário de T.I (Suporte & Desenvolvimento) no Hospital CEME.**
 
-Sou apaixonado por resolver problemas complexos através de código. Minha base é em **Backend (Java)** e manipulação de **Bancos de Dados Relacionais**, mas também trago uma vivência prática de "trincheira" com infraestrutura (servidores Linux/VMware) e estabilidade de sistemas corporativos.
+Gosto de resolver problemas complexos através de código. Minha base é em **Backend (Java)** e manipulação de **Bancos de Dados Relacionais**, mas também trago uma vivência prática de "trincheira" com infraestrutura (servidores Linux/VMware) e estabilidade de sistemas corporativos.
 
 ### 🛠️ Minha Stack Tecnológica
 - **Backend & Arquitetura:** Java (MVC, DAO, JDBC), Python, C.
