@@ -1,4 +1,4 @@
-# Olá! Sou o Kaio Leonardo 👋
+# Olá! Sou o Kaio ;)
 
 👨‍💻 **Estudante de Sistemas de Informação (5º Semestre - IFG) | Estagiário de T.I (Suporte & Desenvolvimento) no Hospital CEME.**
 
