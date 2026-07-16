@@ -1,7 +1,6 @@
 <div align="center">
   <!-- Banner animado -->
-<img src="https://media.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" width="100%" height="250" style="object-fit: cover;">
-
+<img width="540" height="220" alt="Pixel Glitch GIF" src="https://github.com/user-attachments/assets/000f3ad5-6ade-4685-a5e6-f321e78333e6" />
   <br>
 
   <!-- Texto animado como terminal -->
