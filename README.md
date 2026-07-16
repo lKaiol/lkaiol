@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner animado (Você pode trocar o link por qualquer GIF Cyberpunk que gostar) -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNpbHlvOXB4OW5pZTdzeWh2OHlzdWJpMmZ3cDkyazUzMDhyaWx3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="100%" height="250" style="object-fit: cover;">
+  <!-- Banner animado -->
+ <img src="https://media.giphy.com/media/A06zQIlIGJanS/giphy.gif" width="100%" height="250" style="object-fit: cover;">
 
   <br>
 
