@@ -1,11 +1,10 @@
 <div align="center">
   <!-- Banner animado -->
-  <img src=" <img width="540" height="220" alt="Pixel Glitch GIF" src="https://github.com/user-attachments/assets/caab5fa7-0dc7-44f0-a232-5204ccb21037" />
-" width="100%" height="250" style="object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/caab5fa7-0dc7-44f0-a232-5204ccb21037" width="100%" height="250" style="object-fit: cover;">
 
   <br>
 
-  <!-- Texto animado como terminal -->
+  <!-- Texto animado-->
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Kaio+Leonardo)](https://git.io/typing-svg)
 </div>
 
@@ -28,6 +27,18 @@ Resolvo problemas complexos através de código. Minha base é em **Backend (Jav
 
 <br>
 
+### 🚀 [ ATUALIZANDO_DIRETÓRIOS ]
+- Aprofundando estudos na construção de **APIs REST** e migração lógica para o ecossistema Web.
+- Desenvolvendo ferramentas internas em Java para otimização de troubleshooting e monitoramento de redes em tempo real.
+
+### 🏆 [ ARQUIVOS_EXECUTÁVEIS ]
+- **[Dark Souls - RPG Simulator]:** Motor de combate assíncrono criado em Java puro com persistência segura em PostgreSQL (proteção contra SQL Injection) e arquitetura MVC/DAO.
+- **[Harmony Sounds]:** Plataforma e-commerce customizada que alcançou 40k acessos em 3 meses através de estratégias de gestão e SEO.
+- **[Metabotix]:** Planejamento estratégico e programação de robôs de combate.
+
+### 📡 [ ESTABELECER_CONEXÃO ]
+- [LinkedIn](https://www.linkedin.com/in/kaio-leonardo)
+- E-mail: kaioleonardo005@gmail.com
 ### 🚀 [ ATUALIZANDO_DIRETÓRIOS ]
 - Aprofundando estudos na construção de **APIs REST** e migração lógica para o ecossistema Web.
 - Desenvolvendo ferramentas internas em Java para otimização de troubleshooting e monitoramento de redes em tempo real.
